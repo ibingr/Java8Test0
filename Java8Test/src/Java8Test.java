@@ -16,6 +16,9 @@ public class Java8Test {
 		mylist.add("Four");
 		mylist.add("Five");
 		mylist.add("Six");
+
+        mylist.add("Seven");
+		
 	}
 	
 	public static void main(String args[]){
